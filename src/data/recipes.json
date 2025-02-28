@@ -1,0 +1,513 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Chocolate Cake",
+        "category": "dessert",
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "servings": 8,
+        "ingredients": [
+          "2 cups flour",
+          "1 cup white sugar",
+          "4 TBS cocoa, heaping",
+          "1½ tsp baking powder",
+          "1½ tsp baking soda",
+          "1 tsp salt",
+          "1 cup mayonnaise",
+          "1 cup water",
+          "2 tsp vanilla"
+        ],
+        "instructions": [
+          "Sift dry ingredients (flour, sugar, cocoa, baking powder, baking soda, and salt) three times.",
+          "Add mayonnaise, water, and vanilla.",
+          "Mix well.",
+          "Pour into a square pan.",
+          "Bake at 350°F for 35 minutes."
+        ],
+        "notes": "This cake is moist and very chocolatey, perfect for any occasion.",
+        "image": "chocolate-cake.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Cherry Cheese Cake",
+        "category": "dessert",
+        "prepTime": "20 minutes",
+        "cookTime": "8 minutes",
+        "refrigerationTime": "overnight",
+        "servings": 10,
+        "ingredients": [
+          {
+            "section": "Crust",
+            "items": [
+              "2½ cups (or less) graham wafer crumbs",
+              "½ cup melted butter",
+              "½ cup brown sugar"
+            ]
+          },
+          {
+            "section": "Cream",
+            "items": [
+              "1 pkg of dream whip",
+              "1 cup icing sugar",
+              "8 oz of cream cheese"
+            ]
+          },
+          {
+            "section": "Topping",
+            "items": [
+              "1 cup cherry pie filling",
+              "Few drops almond flavour"
+            ]
+          }
+        ],
+        "instructions": [
+          "Put graham cracker mixture in a 9x9 or 7x12 pan. Bake at 375°F for 8 minutes.",
+          "Mix cream ingredients together and put on top of baked bottom.",
+          "Spread cherry pie filling with almond flavour on top.",
+          "Refrigerate overnight."
+        ],
+        "image": "cherry-cheesecake.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Banana Nut Bread",
+        "category": "bread",
+        "prepTime": "15 minutes",
+        "cookTime": "65 minutes",
+        "servings": 12,
+        "ingredients": [
+          "2 cups flour",
+          "½ cup granulated sugar",
+          "3 tsp baking powder",
+          "½ tsp baking soda",
+          "½ tsp salt",
+          "½ cup finely chopped walnuts",
+          "1 egg",
+          "¾ cup milk",
+          "¼ cup vegetable oil",
+          "1½ cup bananas, mashed"
+        ],
+        "instructions": [
+          "Grease pan (9x5x3).",
+          "Combine flour, sugar, baking soda, baking powder, salt. Stir with fork until well mixed.",
+          "Mix in chopped nuts.",
+          "Beat egg, milk, oil together.",
+          "Stir in mashed bananas.",
+          "Add dry ingredients and beat for ½ minute. Batter will still be lumpy.",
+          "Bake at 350°F for 55-65 minutes.",
+          "Use a 9x5x3 pan."
+        ],
+        "image": "banana-nut-bread.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Nanny Goats (Date Cookies)",
+        "category": "cookies",
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "servings": 36,
+        "ingredients": [
+          "2 cups flour",
+          "1 tsp baking soda",
+          "¼ tsp salt",
+          "1 lb dates, cut up",
+          "1 cup butter",
+          "1½ cup brown sugar",
+          "2 eggs",
+          "1 tsp vanilla",
+          "1 cup rolled oats",
+          "½ cup shredded coconut",
+          "¼ cup walnuts"
+        ],
+        "instructions": [
+          "Sift dry ingredients over fruit.",
+          "Cream butter, add sugar, blend well.",
+          "Add eggs, beat well.",
+          "Add vanilla.",
+          "Add flour and other ingredients.",
+          "Drop from teaspoon onto cookie sheet.",
+          "Bake at 325°F for 8-10 minutes."
+        ],
+        "image": "nanny-goats.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Shortbread Cookies",
+        "category": "cookies",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "servings": 24,
+        "ingredients": [
+          "1 lb butter",
+          "¾ cup shortening",
+          "1 cup icing sugar",
+          "4 cups flour"
+        ],
+        "instructions": [
+          "Cream 1 lb butter and ¾ cup shortening.",
+          "Gradually add 1 cup icing sugar and four cups flour.",
+          "Shape into 1\" balls.",
+          "Flatten gently with fork dipped in cold water.",
+          "Bake at 375°F for 10-15 minutes.",
+          "They taste a bit like shortbread Woolworth used to sell for 25¢ a dozen."
+        ],
+        "notes": "These taste similar to Woolworth's shortbread that used to sell for 25¢ a dozen.",
+        "image": "shortbread-cookies.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Apple Muffins",
+        "category": "muffins",
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "servings": 12,
+        "ingredients": [
+          {
+            "section": "Muffins",
+            "items": [
+              "2¼ cups flour",
+              "1½ cups packed brown sugar",
+              "1 tsp baking soda",
+              "½ tsp salt",
+              "1 cup buttermilk",
+              "½ cup butter, melted",
+              "1 tsp vanilla",
+              "2 cups diced peeled apples",
+              "2 eggs"
+            ]
+          },
+          {
+            "section": "Topping",
+            "items": [
+              "½ cup brown sugar",
+              "½ cup chopped pecans",
+              "⅓ cup flour",
+              "1 tsp cinnamon",
+              "1 TBS melted butter"
+            ]
+          }
+        ],
+        "instructions": [
+          "In large bowl, combine flour, sugar, baking soda, and salt.",
+          "Whisk together eggs, buttermilk, butter, and vanilla.",
+          "Pour over dry ingredients.",
+          "Sprinkle with apples and stir just until dry ingredients are moistened.",
+          "Put in muffin tins.",
+          "Sprinkle with topping.",
+          "For topping: In bowl, stir together brown sugar, pecans, flour, cinnamon. Drizzle with butter, tossing with fork.",
+          "Bake at 375°F for 25 minutes."
+        ],
+        "image": "apple-muffins.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Blueberry Muffins",
+        "category": "muffins",
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "servings": 12,
+        "ingredients": [
+          "1½ cups all-purpose flour",
+          "½ cup granulated sugar",
+          "2½ tsp baking powder",
+          "¼ tsp salt",
+          "1 egg",
+          "¾ cup milk",
+          "⅓ cup melted butter",
+          "1 cup blueberries",
+          "1 TBS grated lemon rind",
+          "2 TBS granulated sugar (for topping)"
+        ],
+        "instructions": [
+          "In bowl, mix together flour, ½ cup sugar, baking powder, and salt.",
+          "In small bowl, beat egg, add milk and melted butter.",
+          "Add liquid to dry ingredients all at once, stir just until moistened.",
+          "Stir in blueberries.",
+          "Combine lemon rind with 2 TBS sugar.",
+          "Sprinkle over top of batter.",
+          "Bake at 400°F for 20 minutes.",
+          "Makes 12 muffins."
+        ],
+        "image": "blueberry-muffins.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Amazing Cookies",
+        "category": "cookies",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "servings": 10,
+        "ingredients": [
+          "1 cup marg or butter",
+          "½ cup white sugar",
+          "1 cup brown sugar",
+          "2 eggs",
+          "1 tsp almond extract",
+          "2 cups all-purpose flour",
+          "1 tsp baking soda",
+          "¼ tsp salt",
+          "2 cups rolled oats"
+        ],
+        "instructions": [
+          "Beat marg/butter with sugars until well blended.",
+          "Beat in flour, baking soda, salt until well blended.",
+          "Stir in oats.",
+          "Drop by TBS onto greased cookie sheet.",
+          "Bake at 350°F for 10-15 minutes.",
+          "Makes 10 cookies."
+        ],
+        "image": "amazing-cookies.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Apple Crisp",
+        "category": "dessert",
+        "prepTime": "15 minutes",
+        "cookTime": "60 minutes",
+        "servings": 6,
+        "ingredients": [
+          "4 cups pared apples",
+          "½ cup cold water",
+          "1 tsp cinnamon",
+          "¾ cup brown sugar",
+          "1 cup sifted flour",
+          "½ cup butter or margarine"
+        ],
+        "instructions": [
+          "Place sliced apples in baking dish.",
+          "Combine water and cinnamon, add to apples.",
+          "Blend sugar, flour, cut butter into dry mixture.",
+          "Sprinkle over apples.",
+          "Bake in 350°F oven for 1 hour.",
+          "Serves 4-6."
+        ],
+        "image": "apple-crisp.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Asparagus Roll-up",
+        "category": "appetizer",
+        "prepTime": "10 minutes",
+        "cookTime": "as directed on package",
+        "servings": 8,
+        "ingredients": [
+          "Frozen crescent rolls",
+          "Asparagus",
+          "Ham",
+          "Salad dressing",
+          "Sour cream"
+        ],
+        "instructions": [
+          "Roll up asparagus and slice of ham in crescent roll.",
+          "Bake in oven according to crescent roll package instructions.",
+          "Mix salad dressing and sour cream.",
+          "Pour over rolls and serve."
+        ],
+        "image": "asparagus-rollup.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Glazed Almonds",
+        "category": "snack",
+        "prepTime": "5 minutes",
+        "cookTime": "10 minutes",
+        "servings": 8,
+        "ingredients": [
+          "1 tsp butter",
+          "1 TBS corn syrup",
+          "⅓ cup granulated sugar",
+          "1 cup blanched almonds",
+          "¼ tsp salt"
+        ],
+        "instructions": [
+          "In heavy skillet, combine butter, sugar, and syrup.",
+          "Heat until melted, add almonds.",
+          "Cook and stir over medium heat for 10 minutes until almonds are a rich caramel color.",
+          "Spread nuts on foil and sprinkle with salt.",
+          "Break into pieces when cool."
+        ],
+        "image": "glazed-almonds.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Meat Loaf",
+        "category": "main",
+        "prepTime": "15 minutes",
+        "cookTime": "60 minutes",
+        "servings": 6,
+        "ingredients": [
+          "½ cup packed brown sugar",
+          "½ cup ketchup",
+          "1½ pounds ground meat",
+          "¾ cup milk",
+          "2 eggs",
+          "1½ teaspoons salt",
+          "¼ teaspoon ground pepper",
+          "1 small onion, chopped",
+          "¼ teaspoon ground ginger",
+          "¾ cup finely crushed saltine cracker crumbs"
+        ],
+        "instructions": [
+          "Preheat oven to 350 degrees F (175 degrees C).",
+          "Lightly grease a 5x9 inch loaf pan.",
+          "Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar.",
+          "In a mixing bowl, mix thoroughly all remaining ingredients and shape into a loaf. Place on top of the ketchup.",
+          "Bake in preheated oven for 1 hour or until juices are clear."
+        ],
+        "image": "meat-loaf.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Butter Scotch Cream Pie",
+        "category": "dessert",
+        "prepTime": "20 minutes",
+        "cookTime": "varies",
+        "servings": 8,
+        "ingredients": [
+          "½ cup white sugar",
+          "½ cup hot water",
+          "2 cups milk",
+          "¼ cup butter or margarine",
+          "6 TBS flour",
+          "¾ cup brown sugar",
+          "½ tsp salt",
+          "2 eggs",
+          "1 baked pie shell"
+        ],
+        "instructions": [
+          "Heat white sugar in heavy skillet until it melts and becomes golden brown.",
+          "Remove from heat and slowly add water. Return to heat and cook without stirring until sugar dissolves.",
+          "Add milk and heat to almost boiling.",
+          "Melt butter in top of double boiler.",
+          "Remove from heat, combine flour, sugar & salt and stir into melted fat.",
+          "Beat in two eggs, then slowly stir in caramel-milk mix.",
+          "Cook over boiling water until thickened, stirring constantly.",
+          "Then cover and cook 10 min, stirring occasionally.",
+          "Cool slightly, put in pie shell, chill and serve with whipping cream."
+        ],
+        "image": "butter-scotch-pie.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Blue Berry Pie",
+        "category": "dessert",
+        "prepTime": "15 minutes",
+        "cookTime": "40 minutes",
+        "servings": 8,
+        "ingredients": [
+          "1 quart blueberries",
+          "1 cup water",
+          "½ cup sugar",
+          "3 TBS corn starch",
+          "1 unbaked pie crust"
+        ],
+        "instructions": [
+          "Mix ¼ cup of the water with starch.",
+          "Beat 1 egg, spread on pie crust bottom, and prick.",
+          "Put in oven at 400°F just to brown.",
+          "Bring water to boil, add corn starch & sugar.",
+          "Add blueberries, put into pie shell.",
+          "Cook 20 minutes at 400°F.",
+          "No top on pie."
+        ],
+        "notes": "Green Valley recipe",
+        "image": "blueberry-pie.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Traditional Christmas Cookies (Shortbread)",
+        "category": "cookies",
+        "prepTime": "15 minutes",
+        "cookTime": "12 minutes",
+        "servings": 40,
+        "ingredients": [
+          "1 cup butter",
+          "½ cup brown sugar",
+          "½ cup chopped nuts",
+          "½ cup red & green cherries",
+          "2 cups flour"
+        ],
+        "instructions": [
+          "Cream butter, add sugar and rest of ingredients.",
+          "Mix well.",
+          "Take small pieces of dough, roll into ball.",
+          "Press down with fork.",
+          "Bake at 350°F for 10-12 minutes or less if browning.",
+          "Makes 40 cookies."
+        ],
+        "notes": "Morrison Lamother Christmas cookies. Very Good.",
+        "image": "christmas-cookies.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Date Filled Cookies",
+        "category": "cookies",
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "servings": 24,
+        "ingredients": [
+          {
+            "section": "Cookies",
+            "items": [
+              "1 cup shortening (½ cup butter if desired)",
+              "¾ cup brown sugar",
+              "2 cup milk",
+              "2 cups rolled oats",
+              "1½ cup flour",
+              "3 tsp baking powder",
+              "½ tsp salt",
+              "1 tsp vanilla"
+            ]
+          },
+          {
+            "section": "Date Filling",
+            "items": [
+              "½ pound dates",
+              "⅔ cup water",
+              "1 tsp lemon or orange juice"
+            ]
+          }
+        ],
+        "instructions": [
+          "Mix ingredients together.",
+          "Roll dough ⅛ inch thickness on floured table.",
+          "Cut with round cookie cutter and set on well-oiled cookie sheet.",
+          "Bake at 350°F for 12-15 minutes.",
+          "For date filling: Add water to dates and cook over low heat until thick, add lemon juice, cool before using."
+        ],
+        "image": "date-filled-cookies.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Cranberry Orange Muffins",
+        "category": "muffins",
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "servings": 12,
+        "ingredients": [
+          "2 cups all purpose flour",
+          "¾ cup granulated sugar",
+          "1 tsp baking powder",
+          "½ tsp baking soda",
+          "½ tsp salt",
+          "1 cup cranberries",
+          "1 egg",
+          "¾ cup orange juice",
+          "¼ cup vegetable oil",
+          "1 tsp grated orange rind"
+        ],
+        "instructions": [
+          "In large bowl, combine sugar, flour, baking powder, baking soda, and salt.",
+          "Stir in cranberries.",
+          "Beat together egg, orange juice, oil, and orange rind.",
+          "Add to dry ingredients all at once, stirring until just moistened.",
+          "Spoon into muffin tines ¾ full.",
+          "Sprinkle top lightly with sugar.",
+          "Bake at 400°F for 15-20 minutes.",
+          "Makes 12 large muffins."
+        ],
+        "image": "cranberry-orange-muffins.jpg"
+      }
+    ]
+  }
