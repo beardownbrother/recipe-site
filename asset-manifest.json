@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beardownbrother/recipe-site/static/css/main.35e3a83d.css",
-    "main.js": "/beardownbrother/recipe-site/static/js/main.9d40eafb.js",
+    "main.js": "/beardownbrother/recipe-site/static/js/main.ceff49e2.js",
     "index.html": "/beardownbrother/recipe-site/index.html",
     "main.35e3a83d.css.map": "/beardownbrother/recipe-site/static/css/main.35e3a83d.css.map",
-    "main.9d40eafb.js.map": "/beardownbrother/recipe-site/static/js/main.9d40eafb.js.map"
+    "main.ceff49e2.js.map": "/beardownbrother/recipe-site/static/js/main.ceff49e2.js.map"
   },
   "entrypoints": [
     "static/css/main.35e3a83d.css",
-    "static/js/main.9d40eafb.js"
+    "static/js/main.ceff49e2.js"
   ]
 }
