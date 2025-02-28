@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.35e3a83d.css",
-    "main.js": "./static/js/main.3e44682a.js",
-    "index.html": "./index.html",
-    "main.35e3a83d.css.map": "./static/css/main.35e3a83d.css.map",
-    "main.3e44682a.js.map": "./static/js/main.3e44682a.js.map"
+    "main.css": "/recipe-site/static/css/main.35e3a83d.css",
+    "main.js": "/recipe-site/static/js/main.d33fc697.js",
+    "index.html": "/recipe-site/index.html",
+    "main.35e3a83d.css.map": "/recipe-site/static/css/main.35e3a83d.css.map",
+    "main.d33fc697.js.map": "/recipe-site/static/js/main.d33fc697.js.map"
   },
   "entrypoints": [
     "static/css/main.35e3a83d.css",
-    "static/js/main.3e44682a.js"
+    "static/js/main.d33fc697.js"
   ]
 }
